@@ -1,9 +1,7 @@
 # Slides and code presented at Meet.js Lublin 7
 
 ## Slides
-* [Keynote](./slides/2017-12-14-meetjs-Lublin-7.key)
 * [PDF](./slides/2017-12-14-meetjs-Lublin-7.pdf)
-* [PPT](./slides/2017-12-14-meetjs-Lublin-7.pptx)
 
 ## Code
 1. [Basics](./code/basics)
